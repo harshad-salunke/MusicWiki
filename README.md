@@ -1,5 +1,10 @@
 # MusicWiki
 
+### GreedyGame Assignment
+- Assignment Received - Fed 9
+- Assignment Deadline - 2 to 3 days
+
+
 ### NAME OF THE APP
 MusicWiki <br/>
 App Demo Video - https://drive.google.com/file/d/1kK_bDdyPTqa585BppV68y0WKpW-mbP9B/view?usp=drivesdk <br/>
