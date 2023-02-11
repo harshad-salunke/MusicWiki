@@ -32,6 +32,12 @@ You can get more information at https://www.last.fm/api
 ### ARCHITECTURE
  - MVC Architecture
  - Singleton Design Pattern
+ 
+ ### Technologies Used
+JAVA	<br/>
+XML	<br/>
+Retrofit	<br/>
+Last.fm API <br/>
 
 ### OPERATIONS
 
